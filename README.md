@@ -5,7 +5,7 @@
 This project showcases the use of Excel for data cleaning, processing, analysis, and creating an interactive dashboard. The goal of the project is to demonstrate how Excel can be utilized to extract insights from raw data. 
   
 ### Project Overview
- 
+  
 Data Cleaning: Initial steps to ensure data accuracy and consistency by handling missing values, removing duplicates, and correcting data types.
 Data Processing: Transformation of the cleaned data, including sorting, filtering, and aggregating data to prepare it for analysis.
 Data Analysis: Application of various Excel functions and tools, such as pivot tables, to derive meaningful insights from the processed data.
