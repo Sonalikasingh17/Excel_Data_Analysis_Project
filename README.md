@@ -1,6 +1,6 @@
 # Excel- Vrinda Store Data Analysis
 
-## Introduction
+## Introduction 
  
 This project showcases the use of Excel for data cleaning, processing, analysis, and creating an interactive dashboard. The goal of the project is to demonstrate how Excel can be utilized to extract insights from raw data. 
     
