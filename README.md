@@ -13,9 +13,7 @@ Interactive Dashboard: Creation of a dynamic dashboard that allows users to inte
 Insights: Summary of the key findings and insights gained from the data analysis.
 Next Steps: Recommendations for further analysis or improvements that could be made to the project.
 
-
 ### Sample Questions Addressed
-
 
 How can Excel be used to clean and prepare data for analysis?
 What are the key trends and patterns observed in the dataset?
@@ -23,7 +21,6 @@ How can an interactive dashboard be created to present data in an engaging manne
 
 
 ### Project Structure
-
 
 Excel Data: The raw dataset used for the project.
 Data Cleaning: Excel file containing the cleaned version of the data.
@@ -33,8 +30,6 @@ Interactive Dashboard: Excel file with the final dashboard.
 Insights: Document summarizing the findings from the analysis.
 Next Steps: Suggestions for future work or improvements.
 
-
 ### Outro
-
 
 This project demonstrates the power of Excel as a tool for data analysis and visualization. It serves as a practical example for anyone looking to improve their Excel skills and understand the process of data analysis from start to finish.
